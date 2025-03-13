@@ -3,7 +3,7 @@
 
 [![Bot Logo](icon.png)](https://github.com/WoLand-Q/botmafia)
 
-![Static Badge](https://img.shields.io/badge/Telegram-Open-blue?style=flat-square&logo=telegram&logoColor=white%20&logoSize=auto&label=Telegram&labelColor=blue&color=green&cacheSeconds=3600&link=https%3A%2F%2Ft.me%2Fyarmitt)
+[![S](https://img.shields.io/badge/Telegram-Open-blue?style=flat-square&logo=telegram&logoColor=white%20&logoSize=auto&label=Telegram&labelColor=blue&color=green&cacheSeconds=3600)](https://t.me/yarmitt)
 
 
 Telegram Report Bot – это инструмент для автоматизации формирования и отправки отчётов о плановых и фактических показателях работы заведений. Бот объединяет данные из локальных Excel-файлов и удалённого OLAP API сервиса IIKO, предоставляя как детальные отчёты для отдельных заведений, так и агрегированные отчёты по сетям (например, для городов: Киев, Днепр, Харьков).
